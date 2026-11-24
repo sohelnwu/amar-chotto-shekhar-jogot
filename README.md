@@ -41,6 +41,19 @@ cd D:\claude\amar-chotto-shekhar-jogot
 
 অন্য কম্পিউটারে: [Node.js LTS](https://nodejs.org) ইনস্টল করে `npm install`।
 
+## লাইভ অ্যাপ (GitHub Pages)
+
+**https://sohelnwu.github.io/amar-chotto-shekhar-jogot/**
+
+কোড বদলানোর পর অ্যাপ আপডেট করতে (GitHub নিজে টেস্ট চালিয়ে, বিল্ড করে প্রকাশ করবে; `.github/workflows/deploy.yml`):
+
+```powershell
+$env:Path = "D:\claude\_buildtools\git\cmd;D:\claude\_buildtools\gh\bin;D:\claude\_buildtools\node;" + $env:Path
+git add -A
+git commit -m "আপডেট"
+git push
+```
+
 ## Android ফোনে ইনস্টল
 
 PWA ইনস্টল ও অফলাইনের জন্য **HTTPS** দরকার। সবচেয়ে সহজ উপায়:
