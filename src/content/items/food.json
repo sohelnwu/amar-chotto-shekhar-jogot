@@ -1,0 +1,53 @@
+{
+  "fruits": [
+    { "id": "mango", "bn": "আম", "en": "Mango", "emoji": "🥭", "desc": "আম একটি মিষ্টি ফল। আমকে ফলের রাজা বলা হয়।", "level": 1, "related": ["banana", "watermelon"] },
+    { "id": "banana", "bn": "কলা", "en": "Banana", "emoji": "🍌", "desc": "কলা হলুদ রঙের মিষ্টি ফল। কলা খেলে শক্তি পাওয়া যায়।", "level": 1 },
+    { "id": "apple", "bn": "আপেল", "en": "Apple", "emoji": "🍎", "desc": "আপেল লাল রঙের ফল। আপেল খেতে কচকচে।", "level": 1 },
+    { "id": "orange", "bn": "কমলা", "en": "Orange", "emoji": "🍊", "desc": "কমলা রসালো ফল। কমলার কোয়া ছাড়িয়ে খেতে হয়।", "level": 1 },
+    { "id": "grapes", "bn": "আঙুর", "en": "Grapes", "emoji": "🍇", "desc": "আঙুর থোকায় থোকায় ধরে। আঙুর ছোট ছোট গোল ফল।", "level": 1 },
+    { "id": "watermelon", "bn": "তরমুজ", "en": "Watermelon", "emoji": "🍉", "desc": "তরমুজের ভেতরটা লাল আর বাইরেটা সবুজ। গরমে তরমুজ খেতে মজা।", "level": 1 },
+    { "id": "pineapple", "bn": "আনারস", "en": "Pineapple", "emoji": "🍍", "desc": "আনারসের গায়ে কাঁটা কাঁটা। আনারস টক-মিষ্টি।", "level": 1 },
+    { "id": "coconut", "bn": "নারকেল", "en": "Coconut", "emoji": "🥥", "desc": "নারকেলের ভেতরে মিষ্টি পানি থাকে। ডাবের পানি খুব উপকারী।", "level": 1 },
+    { "id": "strawberry", "bn": "স্ট্রবেরি", "en": "Strawberry", "emoji": "🍓", "desc": "স্ট্রবেরি লাল রঙের ছোট ফল।", "level": 2 },
+    { "id": "pear", "bn": "নাশপাতি", "en": "Pear", "emoji": "🍐", "desc": "নাশপাতি সবুজ রঙের রসালো ফল।", "level": 2 },
+    { "id": "lemon", "bn": "লেবু", "en": "Lemon", "emoji": "🍋", "desc": "লেবু খেতে টক। লেবুতে ভিটামিন সি আছে।", "level": 1 },
+    { "id": "cherry", "bn": "চেরি", "en": "Cherry", "emoji": "🍒", "desc": "চেরি ছোট লাল ফল। দুটি চেরি একসাথে ঝুলে থাকে।", "level": 2 },
+    { "id": "kiwi", "bn": "কিউই", "en": "Kiwi", "emoji": "🥝", "desc": "কিউই ফলের ভেতরটা সবুজ।", "level": 3 },
+    { "id": "melon", "bn": "বাঙ্গি", "en": "Melon", "emoji": "🍈", "desc": "বাঙ্গি গরমকালের ফল। বাঙ্গি খুব নরম আর মিষ্টি গন্ধের।", "level": 2 },
+    { "id": "olive", "bn": "জলপাই", "en": "Olive", "emoji": "🫒", "desc": "জলপাই খেতে টক। জলপাই দিয়ে আচার বানানো হয়।", "level": 3 }
+  ],
+  "vegetables": [
+    { "id": "potato", "bn": "আলু", "en": "Potato", "emoji": "🥔", "desc": "আলু মাটির নিচে জন্মায়। আলু দিয়ে অনেক মজার খাবার হয়।", "level": 1 },
+    { "id": "tomato", "bn": "টমেটো", "en": "Tomato", "emoji": "🍅", "desc": "টমেটো লাল আর রসালো।", "level": 1 },
+    { "id": "carrot", "bn": "গাজর", "en": "Carrot", "emoji": "🥕", "desc": "গাজর কমলা রঙের। গাজর খেলে চোখ ভালো থাকে।", "level": 1 },
+    { "id": "eggplant", "bn": "বেগুন", "en": "Eggplant", "emoji": "🍆", "desc": "বেগুন বেগুনি রঙের সবজি।", "level": 1 },
+    { "id": "cucumber", "bn": "শসা", "en": "Cucumber", "emoji": "🥒", "desc": "শসা সবুজ আর ঠান্ডা। শসায় অনেক পানি থাকে।", "level": 1 },
+    { "id": "corn", "bn": "ভুট্টা", "en": "Corn", "emoji": "🌽", "desc": "ভুট্টার দানা হলুদ। পোড়া ভুট্টা খেতে মজা।", "level": 1 },
+    { "id": "chili", "bn": "মরিচ", "en": "Chili", "emoji": "🌶️", "desc": "মরিচ খেতে ঝাল। ছোটরা অল্প ঝাল খায়।", "level": 1 },
+    { "id": "onion", "bn": "পেঁয়াজ", "en": "Onion", "emoji": "🧅", "desc": "পেঁয়াজ কাটলে চোখে পানি আসে।", "level": 2 },
+    { "id": "garlic", "bn": "রসুন", "en": "Garlic", "emoji": "🧄", "desc": "রসুন রান্নায় স্বাদ বাড়ায়।", "level": 2 },
+    { "id": "broccoli", "bn": "ব্রোকলি", "en": "Broccoli", "emoji": "🥦", "desc": "ব্রোকলি দেখতে ছোট্ট সবুজ গাছের মতো।", "level": 2 },
+    { "id": "pumpkin", "bn": "মিষ্টি কুমড়া", "en": "Pumpkin", "emoji": "🎃", "desc": "মিষ্টি কুমড়া বড় আর গোল।", "level": 1 },
+    { "id": "mushroom", "bn": "মাশরুম", "en": "Mushroom", "emoji": "🍄", "desc": "মাশরুম দেখতে ছাতার মতো। বনের মাশরুম ছোঁয়া যাবে না।", "level": 2 },
+    { "id": "capsicum", "bn": "ক্যাপসিকাম", "en": "Bell pepper", "emoji": "🫑", "desc": "ক্যাপসিকাম সবুজ, লাল বা হলুদ হয়।", "level": 3 },
+    { "id": "leafy-greens", "bn": "শাক", "en": "Leafy greens", "emoji": "🥬", "desc": "শাক খেলে শরীর ভালো থাকে। লাল শাক, পালং শাক খুব উপকারী।", "level": 1 },
+    { "id": "sweet-potato", "bn": "মিষ্টি আলু", "en": "Sweet potato", "emoji": "🍠", "desc": "মিষ্টি আলু খেতে মিষ্টি।", "level": 2 }
+  ],
+  "food": [
+    { "id": "rice", "bn": "ভাত", "en": "Rice", "emoji": "🍚", "desc": "ভাত আমাদের প্রধান খাবার। ধান থেকে চাল, আর চাল থেকে ভাত হয়।", "level": 1 },
+    { "id": "flatbread", "bn": "রুটি", "en": "Flatbread", "emoji": "🫓", "desc": "রুটি আটা দিয়ে বানানো হয়।", "level": 1 },
+    { "id": "bread", "bn": "পাউরুটি", "en": "Bread", "emoji": "🍞", "desc": "পাউরুটি নরম। সকালের নাস্তায় পাউরুটি খাওয়া যায়।", "level": 1 },
+    { "id": "egg", "bn": "ডিম", "en": "Egg", "emoji": "🥚", "desc": "ডিম খেলে শরীর শক্তিশালী হয়।", "level": 1 },
+    { "id": "milk", "bn": "দুধ", "en": "Milk", "emoji": "🥛", "desc": "দুধ সাদা। দুধ খেলে হাড় আর দাঁত মজবুত হয়।", "level": 1 },
+    { "id": "water", "bn": "পানি", "en": "Water", "emoji": "💧", "desc": "পানি আমাদের জীবন। প্রতিদিন অনেক পানি পান করতে হয়।", "level": 1 },
+    { "id": "honey", "bn": "মধু", "en": "Honey", "emoji": "🍯", "desc": "মধু মিষ্টি। মৌমাছি মধু বানায়।", "level": 1 },
+    { "id": "chicken", "bn": "মুরগির মাংস", "en": "Chicken", "emoji": "🍗", "desc": "মাংসে প্রোটিন আছে। প্রোটিন শরীর বড় করে।", "level": 2 },
+    { "id": "cheese", "bn": "পনির", "en": "Cheese", "emoji": "🧀", "desc": "পনির দুধ থেকে তৈরি হয়।", "level": 2 },
+    { "id": "juice", "bn": "ফলের রস", "en": "Fruit juice", "emoji": "🧃", "desc": "ফলের রস খেতে মজা। তাজা ফল খাওয়া আরও ভালো।", "level": 1 },
+    { "id": "cake", "bn": "কেক", "en": "Cake", "emoji": "🎂", "desc": "জন্মদিনে কেক কাটা হয়।", "level": 1 },
+    { "id": "ice-cream", "bn": "আইসক্রিম", "en": "Ice cream", "emoji": "🍦", "desc": "আইসক্রিম ঠান্ডা আর মিষ্টি। মাঝে মাঝে অল্প খাওয়া ভালো।", "level": 1 },
+    { "id": "chocolate", "bn": "চকলেট", "en": "Chocolate", "emoji": "🍫", "desc": "চকলেট মিষ্টি। বেশি চকলেট খেলে দাঁত নষ্ট হয়।", "level": 1 },
+    { "id": "biscuit", "bn": "বিস্কুট", "en": "Biscuit", "emoji": "🍪", "desc": "বিস্কুট মচমচে।", "level": 1 },
+    { "id": "salad", "bn": "সালাদ", "en": "Salad", "emoji": "🥗", "desc": "সালাদে অনেক সবজি থাকে। সবজি খেলে শরীর সুস্থ থাকে।", "level": 2 }
+  ]
+}
